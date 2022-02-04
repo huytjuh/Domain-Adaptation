@@ -27,4 +27,4 @@ A PyTorch implementation of (Bayesian) CycleGAN inspired by [Zhu et al. (2017)](
 
 ## Acknowledgements
 
-Code is inspired by [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
+Code is inspired by []().
